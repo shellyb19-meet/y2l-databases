@@ -54,4 +54,5 @@ if __name__ == '__main__':
         table_string += row_strings
 
         table_strings.append(table_string)
+
     print('\n\n'.join(table_strings))
